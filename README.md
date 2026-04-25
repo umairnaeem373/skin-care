@@ -1,2 +1,2 @@
 # skin-care
-Next app for a Skin care product 
+Next Js app for a Skin care product 
